@@ -1,6 +1,7 @@
 {
   "domain": "qiyeweixin",
   "name": "qiyeweixin",
+  "version": "2021.04.06",
   "documentation": "",
   "dependencies": [],
   "codeowners": [],
